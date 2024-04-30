@@ -1,0 +1,15 @@
+{
+  "name": "svg-logo-fixed",
+  "version": "1.0.0",
+  "description": "a fun logo maker!!!",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
